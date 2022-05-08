@@ -1,4 +1,4 @@
-FROM xhofe/alist:2.5.1
+FROM xhofe/alist:v2.5.1
 LABEL MAINTAINER="i@nn.ci"
 
 ARG DATABASE_URL
